@@ -1,0 +1,2 @@
+rootProject.name='LuasPersegiKotlin'
+include ':app'
